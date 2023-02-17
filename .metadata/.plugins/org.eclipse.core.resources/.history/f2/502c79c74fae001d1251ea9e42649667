@@ -1,0 +1,11 @@
+
+public class TestaVaiaveis {
+	
+	public static void main(String[] args) {
+		
+		System.out.println("ola mundo teste");
+		
+		int idade;
+		idade = 37
+	}
+}
