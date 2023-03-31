@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;sinta&apos;" deleteContents="false" description="Delete resource &apos;sinta&apos;" element1="/sinta" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1675911601334"/>
-</session>
